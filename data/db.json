@@ -1,0 +1,1075 @@
+{
+  "navMenu": [
+    {
+      "text": "Home",
+      "path": "/"
+    },
+    {
+      "text": "Pages",
+      "path": "/",
+      "submenus": [
+        {
+          "text": "Shop",
+          "path": "/shop",
+          "submenus": [
+            {
+              "text": "Shop Details",
+              "path": "/shop-details"
+            },
+            {
+              "text": "Cart Page",
+              "path": "/cart-page"
+            },
+            {
+              "text": "Checkout",
+              "path": "/checkout"
+            },
+            {
+              "text": "Wishlist",
+              "path": "/wishlist"
+            }
+          ]
+        },
+        {
+          "text": "Career",
+          "path": "/",
+          "submenus": [
+            {
+              "text": "Career",
+              "path": "/career"
+            },
+            {
+              "text": "Career Details",
+              "path": "/career-details"
+            }
+          ]
+        },
+        {
+          "text": "About Us",
+          "path": "/about-us"
+        },
+        {
+          "text": "Appointment",
+          "path": "/appointment"
+        },
+        {
+          "text": "Team",
+          "path": "/team"
+        },
+        {
+          "text": "Project",
+          "path": "/project"
+        },
+        {
+          "text": "Faq",
+          "path": "/faq"
+        }
+      ]
+    },
+    {
+      "text": "Service",
+      "path": "/",
+      "submenus": [
+        {
+          "text": "Service",
+          "path": "/service"
+        },
+        {
+          "text": "Service Details",
+          "path": "/service-details"
+        }
+      ]
+    },
+    {
+      "text": "Blog",
+      "path": "/",
+      "submenus": [
+        {
+          "text": "Blog Grid",
+          "path": "/blog-grid"
+        },
+        {
+          "text": "Blog Lists",
+          "path": "/blog-lists"
+        },
+        {
+          "text": "Blog Details",
+          "path": "/blog-details"
+        }
+      ]
+    },
+    {
+      "text": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "contactNumber": {
+    "text": "+258 623 2325"
+  },
+  "homeSlider": {
+    "title": "Simplify with",
+    "subtitle": "Webteck's SaaS Solutions",
+    "text": "Take charge of your business continuity with innovative IT solutions",
+    "btnlinks": "View Services",
+    "btnlinkspath": "/services",
+    "btnlinkc": "Make a Reservation",
+    "btnlinkcpath": "/contact"
+  },
+  "ServiceDetails": [
+    {
+      "img": "http://localhost:3000/assets/img/service/service_card_1.svg",
+      "title": "Web Development",
+      "text": "Open the banner maker, template and start customizing.",
+      "path": "/blog",
+      "btn": "Read Details"
+    },
+    {
+      "img": "../assets/img/service/service_card_2.svg",
+      "title": "UI/UX Design",
+      "text": "Open the banner maker, template and start customizing.",
+      "path": "/blog",
+      "btn": "Read Details"
+    },
+    {
+      "img": "../assets/img/service/service_card_3.svg",
+      "title": "Digital Marketing",
+      "text": "Open the banner maker, template and start customizing.",
+      "path": "/blog",
+      "btn": "Read Details"
+    },
+    {
+      "img": "../assets/img/service/service_card_4.svg",
+      "title": "Business Analysis",
+      "text": "Open the banner maker, template and start customizing.",
+      "path": "/blog",
+      "btn": "Read Details"
+    },
+    {
+      "img": "../assets/img/service/service_card_5.svg",
+      "title": "Software Services",
+      "text": "Open the banner maker, template and start customizing.",
+      "path": "/blog",
+      "btn": "Read Details"
+    },
+    {
+      "img": "../assets/img/service/service_card_6.svg",
+      "title": "Machine Learning",
+      "text": "Open the banner maker, template and start customizing.",
+      "path": "/blog",
+      "btn": "Read Details"
+    },
+    {
+      "img": "../assets/img/service/service_card_7.svg",
+      "title": "IT Management",
+      "text": "Open the banner maker, template and start customizing.",
+      "path": "/blog",
+      "btn": "Read Details"
+    },
+    {
+      "img": "../assets/img/service/service_card_8.svg",
+      "title": "Cloud Computing",
+      "text": "Open the banner maker, template and start customizing.",
+      "path": "/blog",
+      "btn": "Read Details"
+    },
+    {
+      "img": "../assets/img/service/service_card_9.svg",
+      "title": "Backup & Recovery",
+      "text": "Open the banner maker, template and start customizing.",
+      "path": "/blog",
+      "btn": "Read Details"
+    }
+  ],
+  "whyChoose": [
+    {
+      "img": "../assets/img/icon/choose_1_1.svg",
+      "title": "Efficiency & Management",
+      "text": "Efficiency and management are key aspects of any successful organization, whether it's a business."
+    },
+    {
+      "img": "../assets/img/icon/choose_1_2.svg",
+      "title": "Effective Team Work",
+      "text": "Effective teamwork requires clear communication, mutual trust, and a shared commitment to common goals."
+    },
+    {
+      "img": "../assets/img/icon/choose_1_3.svg",
+      "title": "Amazing Growth Flow",
+      "text": "An amazing growth flow involves a dynamic combination of strategic innovation and adaptable leadership."
+    }
+  ],
+  "Feature": [
+    {
+      "img": "../assets/img/icon/feature_1_1.svg",
+      "title": "Cost-effectiveness",
+      "text": "Cost-effectiveness is achieved through strategic planning."
+    },
+    {
+      "img": "../assets/img/icon/feature_1_2.svg",
+      "title": "Innovative Technology",
+      "text": "Innovative technology drives progress by seamlessly."
+    },
+    {
+      "img": "../assets/img/icon/feature_1_3.svg",
+      "title": "Industry Expertise",
+      "text": "Industry expertise is the cornerstone of informed decision-making."
+    },
+    {
+      "img": "../assets/img/icon/feature_1_4.svg",
+      "title": "Scalability",
+      "text": "Scalability empowers businesses to grow seamlessly, adapting."
+    }
+  ],
+  "aboutHome": {
+    "title": "A preferred Web development company of world's pioneering brands.",
+    "subtitle": "About Us",
+    "text": "Their team's technical expertise is truly outstanding. They took the time to thoroughly understand our goals and requirements and then designed and implemented solutions that not only addressed our immediate challenges but also positioned us for future growth.",
+    "btn": "/about-us",
+    "listing": [
+      {
+        "text": "Turn your data into insights that drive business growth."
+      },
+      {
+        "text": "Identify trends and patterns in your data."
+      }
+    ]
+  },
+  "processList": [
+    {
+      "img": "../assets/img/icon/process_box_1.png",
+      "title": "Project Planning",
+      "count": "01",
+      "text": "Internal or 'organic' sources without turnkey growth strategies. Seamlessly promote client-centered."
+    },
+    {
+      "img": "../assets/img/icon/process_box_2.png",
+      "title": "Request A Meeting",
+      "count": "02",
+      "text": "Vulnerable for web iterate process before meta services impact with olisticly enable geting."
+    },
+    {
+      "img": "../assets/img/icon/process_box_3.png",
+      "title": "Start Planning",
+      "count": "03",
+      "text": "Of setting for web iterate process before meta services impact with olisticly enable power."
+    },
+    {
+      "img": "../assets/img/icon/process_box_4.png",
+      "title": "Request A Meeting",
+      "count": "04",
+      "text": "Getting on for web iterate process before meta services impact with olisticly enable silent."
+    }
+  ],
+  "bloglistData": [
+    {
+      "img": "../assets/img/blog/blog_1_1.jpg",
+      "date": "25 Feb, 2024",
+      "other": "By Webtek",
+      "title": "Developers within IT teams are responsible for creating and deploying software.",
+      "btn": "/blog"
+    },
+    {
+      "img": "../assets/img/blog/blog_1_2.jpg",
+      "date": "25 Feb, 2024",
+      "other": "By Webtek",
+      "title": "Implementing Strategic IT Solutions for the Seamless Integration enhanced Security.",
+      "btn": "/blog"
+    },
+    {
+      "img": "../assets/img/blog/blog_1_3.jpg",
+      "date": "25 Feb, 2024",
+      "other": "By Webtek",
+      "title": "Developers within IT teams are responsible for creating and deploying software.",
+      "btn": "/blog"
+    },
+    {
+      "img": "../assets/img/blog/blog_1_4.jpg",
+      "date": "25 Feb, 2024",
+      "other": "By Webtek",
+      "title": "Embracing Next-Generation IT Solutions to Propel Businesses into a New Era of Efficiency.",
+      "btn": "/blog"
+    },
+    {
+      "img": "../assets/img/blog/blog_1_5.jpg",
+      "date": "25 Feb, 2024",
+      "other": "By Webtek",
+      "title": "Implementing Strategic IT Solutions for the Seamless Integration enhanced Security.",
+      "btn": "/blog"
+    },
+    {
+      "img": "../assets/img/blog/blog_1_6.jpg",
+      "date": "25 Feb, 2024",
+      "other": "By Webtek",
+      "title": "Developers within IT teams are responsible for creating and deploying software.",
+      "btn": "/blog"
+    }
+  ],
+  "brankLogos": [
+    {
+      "img": "../assets/img/brand/brand_1_1.png"
+    },
+    {
+      "img": "../assets/img/brand/brand_1_2.png"
+    },
+    {
+      "img": "../assets/img/brand/brand_1_3.png"
+    },
+    {
+      "img": "../assets/img/brand/brand_1_4.png"
+    },
+    {
+      "img": "../assets/img/brand/brand_1_5.png"
+    },
+    {
+      "img": "../assets/img/brand/brand_1_6.png"
+    }
+  ],
+  "footerConted": {
+    "text": "Their team's technical expertise is truly outstanding. They took the time to thoroughly understand our goals and requirements and then designed and implemented solutions that not only addressed our immediate challenges but also positioned us for future growth.",
+    "link": [
+      {
+        "text": "Home",
+        "links": "/"
+      },
+      {
+        "text": "Pages",
+        "links": "/"
+      },
+      {
+        "text": "Services",
+        "links": "/services"
+      },
+      {
+        "text": "Blog",
+        "links": "/blog"
+      },
+      {
+        "text": "Contact",
+        "links": "/contact"
+      }
+    ],
+    "social": [
+      {
+        "link": "https://www.facebook.com/",
+        "icon": "fab fa-facebook-f"
+      },
+      {
+        "link": "https://www.twitter.com/",
+        "icon": "fab fa-twitter"
+      },
+      {
+        "link": "https://www.linkedin.com",
+        "icon": "fab fa-linkedin-in"
+      },
+      {
+        "link": "https://www.whatsapp.com/",
+        "icon": "fab fa-whatsapp"
+      }
+    ],
+    "continfo": [
+      {
+        "icon": "fa-solid fa-location-dot",
+        "title": "Address",
+        "text": "12 Division Park, SKY 12546. Berlin"
+      },
+      {
+        "icon": "fa-solid fa-envelope",
+        "title": "Email",
+        "email": [
+          {
+            "text": "help@webteck-mail.com"
+          },
+          {
+            "text": "24/7@webteck-online.com"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-phone",
+        "title": "Call",
+        "cont": [
+          {
+            "text": "+215 2536 32156"
+          },
+          {
+            "text": "+452 3694 21587"
+          }
+        ]
+      }
+    ]
+  },
+  "teamData": [
+    {
+      "img": "../assets/img/team/team_1_1.jpg",
+      "name": "Rayan Athels",
+      "dg": "Founder & CEO",
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "link": "https://facebook.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "link": "https://twitter.com/"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "link": "https://instagram.com/"
+        },
+        {
+          "icon": "fab fa-linkedin-in",
+          "link": "https://linkedin.com/"
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/team/team_1_2.jpg",
+      "name": "Alex Furnandes",
+      "dg": "Project Manager",
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "link": "https://facebook.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "link": "https://twitter.com/"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "link": "https://instagram.com/"
+        },
+        {
+          "icon": "fab fa-linkedin-in",
+          "link": "https://linkedin.com/"
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/team/team_1_3.jpg",
+      "name": "Mary Crispy",
+      "dg": "Chief Expert",
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "link": "https://facebook.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "link": "https://twitter.com/"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "link": "https://instagram.com/"
+        },
+        {
+          "icon": "fab fa-linkedin-in",
+          "link": "https://linkedin.com/"
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/team/team_1_4.jpg",
+      "name": "Chief Expert",
+      "dg": "Project Manager",
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "link": "https://facebook.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "link": "https://twitter.com/"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "link": "https://instagram.com/"
+        },
+        {
+          "icon": "fab fa-linkedin-in",
+          "link": "https://linkedin.com/"
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/team/team_1_5.jpg",
+      "name": "Sanjida Carlose",
+      "dg": "IT Consultant",
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "link": "https://facebook.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "link": "https://twitter.com/"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "link": "https://instagram.com/"
+        },
+        {
+          "icon": "fab fa-linkedin-in",
+          "link": "https://linkedin.com/"
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/team/team_1_6.jpg",
+      "name": "Marian Widjya",
+      "dg": "Head Manager",
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "link": "https://facebook.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "link": "https://twitter.com/"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "link": "https://instagram.com/"
+        },
+        {
+          "icon": "fab fa-linkedin-in",
+          "link": "https://linkedin.com/"
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/team/team_1_7.jpg",
+      "name": "Peter Parker",
+      "dg": "Web Developer",
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "link": "https://facebook.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "link": "https://twitter.com/"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "link": "https://instagram.com/"
+        },
+        {
+          "icon": "fab fa-linkedin-in",
+          "link": "https://linkedin.com/"
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/team/team_1_8.jpg",
+      "name": "Grayson Gabriel",
+      "dg": "UI/UX Designer",
+      "social": [
+        {
+          "icon": "fab fa-facebook-f",
+          "link": "https://facebook.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "link": "https://twitter.com/"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "link": "https://instagram.com/"
+        },
+        {
+          "icon": "fab fa-linkedin-in",
+          "link": "https://linkedin.com/"
+        }
+      ]
+    }
+  ],
+  "TestimonialData": [
+    {
+      "img": "../assets/img/testimonial/testi_3_1.jpg",
+      "text": "“Lectus volpat faucibus placerat eget nulla sodales aliquam molestie ante, himenaeos fames suscipit arcu cras cenas penatibus vivamus, aenean primis enim”",
+      "title": "Andrew D. Smith",
+      "desig": "Manager"
+    },
+    {
+      "img": "../assets/img/testimonial/testi_3_2.jpg",
+      "text": "“Objectively visualize error-free technology for B2B alignment. Monotonectally harness an expanded array of models via effective collaboration in the success.”",
+      "title": "Brooklyn Simmons",
+      "desig": "CTO of Portfolio"
+    },
+    {
+      "img": "../assets/img/testimonial/testi_3_3.jpg",
+      "text": "“Completely drive innovative value whereas out-of-the-box paradigms. Interactively pursue stand-alone markets after global say that they results..”",
+      "title": "Savannah Nguyen",
+      "desig": "CEO at Rimasu"
+    },
+    {
+      "img": "../assets/img/testimonial/testi_3_4.jpg",
+      "text": "“The best service reinvent prospective metrics before granular schema. Professionally metrics before expedite client-centric or analyzing before expedite methods”",
+      "title": "Cameron Williamson",
+      "desig": "Founder CEO"
+    }
+  ],
+  "ProjectServes": [
+    {
+      "img": "../assets/img/course/course_1_1.jpg",
+      "title": "STRATEGIES FOR SEAMLESS IMPLEMENTATION AND SUCCESS",
+      "btn": "View Projects"
+    },
+    {
+      "img": "../assets/img/course/course_1_2.jpg",
+      "title": "The Art of Executing Project Based IT Solutions",
+      "btn": "View Projects"
+    },
+    {
+      "img": "../assets/img/course/course_1_3.jpg",
+      "title": "Optimizing Project-Based IT Services for Enhanced",
+      "btn": "View Projects"
+    },
+    {
+      "img": "../assets/img/course/course_1_4.jpg",
+      "title": "Strategies for Seamless Implementation and Success",
+      "btn": "View Projects"
+    },
+    {
+      "img": "../assets/img/course/course_1_5.jpg",
+      "title": "STRATEGIES FOR SEAMLESS IMPLEMENTATION",
+      "btn": "View Projects"
+    },
+    {
+      "img": "../assets/img/course/course_1_6.jpg",
+      "title": "The Art of Executing Project Based IT Solutions",
+      "btn": "View Projects"
+    },
+    {
+      "img": "../assets/img/course/course_1_7.jpg",
+      "title": "Optimizing Project-Based IT Services for Enhanced",
+      "btn": "View Projects"
+    },
+    {
+      "img": "../assets/img/course/course_1_8.jpg",
+      "title": "Strategies for Seamless Implementation and Success",
+      "btn": "View Projects"
+    },
+    {
+      "img": "../assets/img/course/course_1_9.jpg",
+      "title": "The Art of Executing Project Based IT Solutions",
+      "btn": "View Projects"
+    }
+  ],
+  "faqdata": [
+    {
+      "id": 1,
+      "title": "What types of IT services does your company offer?",
+      "text": "Represent a specific company, as I am a product of OpenAI, and OpenAI is not an IT services company. However, I can provide information about various types of IT services that companies in the industry commonly offer. Outsourcing IT operations to a service provider for proactive management."
+    },
+    {
+      "id": 2,
+      "title": "What is the typical process for engaging your IT services?",
+      "text": "I don't provide IT services myself, but I can outline a typical process that businesses might follow when engaging the services of an IT service provider. The exact steps can vary depending on the nature of the services."
+    },
+    {
+      "id": 3,
+      "title": "How do you ensure the security of sensitive data while providing IT services?",
+      "text": "As an AI language model created by OpenAI, I don't provide IT services or handle sensitive data. However, I can offer general recommendations that IT service providers typically follow to ensure the security."
+    },
+    {
+      "id": 4,
+      "title": "Can your IT services help with technology upgrades and system migrations?",
+      "text": "I don't provide IT services myself, but I can certainly provide information on how IT service providers typically assist with technology upgrades and system migrations."
+    },
+    {
+      "id": 5,
+      "title": "How quickly can your team respond to IT-related issues or emergencies?",
+      "text": "I don't have a team, and I'm not associated with a specific company. However, the response time to IT-related issues or emergencies can vary depending on the IT service provider, the level of support agreed."
+    }
+  ],
+  "productdata ": [
+    {
+      "img": "../assets/img/project/product_1_1.jpg",
+      "title": "Gaming Computer",
+      "price": "$370.85",
+      "rating": "★ ★ ★ ★ ★ ★ ",
+      "tag": "Sale",
+      "text": "Syndicate customized growth strategies prospective human capital leverage other`s optimal e- markets without transparent catalysts for change.Credibly coordinate highly efficient methods of empowerment cross unit solutions.",
+      "sku": "wheel-fits-chevy-camaro",
+      "category": "Tires & Wheels",
+      "tags": "automotive parts wheels",
+      "description": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. <br> <br> Enthusiastically aggregate ethical systems for standardized mindshare.Energistically target resource maximizing leadership skills without backward- compatible action items.Credibly impact alternative expertise vis - a - vis economically sound results.Dynamically synergize empowered benefits through functional partnerships.Authoritatively empower prospective infomediaries for interactive content.Synergistically embrace 2.0 paradigms through professional intellectual capital.Interactively strategize parallel growth strategies without out - of - the - box web services.Assertively reinvent installed base.",
+      "AdditionalInformation": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. Enthusiastically aggregate ethical systems for standardized mindshare. Energistically target resource maximizing leadership skills without backward-compatible action items. Credibly impact alternative expertise vis-a-vis economically sound results. Dynamically synergize empowered benefits through functional partnerships. Authoritatively empower prospective infomediaries for interactive content. Synergistically embrace 2.0 paradigms through professional intellectual capital. Interactively strategize parallel growth strategies without out-of-the-box web services. Assertively reinvent installed base.",
+      "customerreviews": [
+        {
+          "img": "../assets/img/testimonial/testi_3_1.jpg",
+          "name": "Adam Jhon ",
+          "date": "22 April, 2024",
+          "rating": "5",
+          "text": "This product is very much qualityful and I love this working system and speed."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_2.jpg",
+          "name": "Jusctin Dacon ",
+          "date": "23 April, 2024",
+          "rating": "5",
+          "text": "They delivered the product in a few time. Product quality is also very good."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_3.jpg",
+          "name": "Jacklin July",
+          "date": "25 April, 2024",
+          "rating": "4",
+          "text": "Their product and service is very satisfying. I highly recommend their services."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_4.jpg",
+          "name": "Adison Smith",
+          "date": "28 April, 2024",
+          "rating": "5",
+          "text": "I am just in love with this product. Their service is also very good you can also try."
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/project/product_1_2.jpg",
+      "title": "Smartphone Vivo V9",
+      "price": "$37.85",
+      "rating": "★ ★ ★",
+      "tag": "Sale",
+      "text": "Syndicate customized growth strategies prospective human capital leverage other`s optimal e- markets without transparent catalysts for change.Credibly coordinate highly efficient methods of empowerment cross unit solutions.",
+      "sku": "wheel-fits-chevy-camaro",
+      "category": "Tires & Wheels",
+      "tags": "automotive parts wheels",
+      "description": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. <br> <br> Enthusiastically aggregate ethical systems for standardized mindshare.Energistically target resource maximizing leadership skills without backward- compatible action items.Credibly impact alternative expertise vis - a - vis economically sound results.Dynamically synergize empowered benefits through functional partnerships.Authoritatively empower prospective infomediaries for interactive content.Synergistically embrace 2.0 paradigms through professional intellectual capital.Interactively strategize parallel growth strategies without out - of - the - box web services.Assertively reinvent installed base.",
+      "AdditionalInformation": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. Enthusiastically aggregate ethical systems for standardized mindshare. Energistically target resource maximizing leadership skills without backward-compatible action items. Credibly impact alternative expertise vis-a-vis economically sound results. Dynamically synergize empowered benefits through functional partnerships. Authoritatively empower prospective infomediaries for interactive content. Synergistically embrace 2.0 paradigms through professional intellectual capital. Interactively strategize parallel growth strategies without out-of-the-box web services. Assertively reinvent installed base.",
+      "customerreviews": [
+        {
+          "img": "../assets/img/testimonial/testi_3_1.jpg",
+          "name": "Adam Jhon ",
+          "date": "22 April, 2024",
+          "rating": "5",
+          "text": "This product is very much qualityful and I love this working system and speed."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_2.jpg",
+          "name": "Jusctin Dacon ",
+          "date": "23 April, 2024",
+          "rating": "5",
+          "text": "They delivered the product in a few time. Product quality is also very good."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_3.jpg",
+          "name": "Jacklin July",
+          "date": "25 April, 2024",
+          "rating": "4",
+          "text": "Their product and service is very satisfying. I highly recommend their services."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_4.jpg",
+          "name": "Adison Smith",
+          "date": "28 April, 2024",
+          "rating": "5",
+          "text": "I am just in love with this product. Their service is also very good you can also try."
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/project/product_1_3.jpg",
+      "title": "SanDisk Flash Drive",
+      "price": "$3.85",
+      "rating": "★ ★ ★ ★",
+      "tag": "Sale",
+      "text": "Syndicate customized growth strategies prospective human capital leverage other`s optimal e- markets without transparent catalysts for change.Credibly coordinate highly efficient methods of empowerment cross unit solutions.",
+      "sku": "wheel-fits-chevy-camaro",
+      "category": "Tires & Wheels",
+      "tags": "automotive parts wheels",
+      "description": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. <br> <br> Enthusiastically aggregate ethical systems for standardized mindshare.Energistically target resource maximizing leadership skills without backward- compatible action items.Credibly impact alternative expertise vis - a - vis economically sound results.Dynamically synergize empowered benefits through functional partnerships.Authoritatively empower prospective infomediaries for interactive content.Synergistically embrace 2.0 paradigms through professional intellectual capital.Interactively strategize parallel growth strategies without out - of - the - box web services.Assertively reinvent installed base.",
+      "AdditionalInformation": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. Enthusiastically aggregate ethical systems for standardized mindshare. Energistically target resource maximizing leadership skills without backward-compatible action items. Credibly impact alternative expertise vis-a-vis economically sound results. Dynamically synergize empowered benefits through functional partnerships. Authoritatively empower prospective infomediaries for interactive content. Synergistically embrace 2.0 paradigms through professional intellectual capital. Interactively strategize parallel growth strategies without out-of-the-box web services. Assertively reinvent installed base.",
+      "customerreviews": [
+        {
+          "img": "../assets/img/testimonial/testi_3_1.jpg",
+          "name": "Adam Jhon ",
+          "date": "22 April, 2024",
+          "rating": "5",
+          "text": "This product is very much qualityful and I love this working system and speed."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_2.jpg",
+          "name": "Jusctin Dacon ",
+          "date": "23 April, 2024",
+          "rating": "5",
+          "text": "They delivered the product in a few time. Product quality is also very good."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_3.jpg",
+          "name": "Jacklin July",
+          "date": "25 April, 2024",
+          "rating": "4",
+          "text": "Their product and service is very satisfying. I highly recommend their services."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_4.jpg",
+          "name": "Adison Smith",
+          "date": "28 April, 2024",
+          "rating": "5",
+          "text": "I am just in love with this product. Their service is also very good you can also try."
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/project/product_1_4.jpg",
+      "title": "Smart Power Bank",
+      "price": "$23.85",
+      "rating": "★ ★ ★ ★ ",
+      "tag": "new",
+      "text": "Syndicate customized growth strategies prospective human capital leverage other`s optimal e- markets without transparent catalysts for change.Credibly coordinate highly efficient methods of empowerment cross unit solutions.",
+      "sku": "wheel-fits-chevy-camaro",
+      "category": "Tires & Wheels",
+      "tags": "automotive parts wheels",
+      "description": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. <br> <br> Enthusiastically aggregate ethical systems for standardized mindshare.Energistically target resource maximizing leadership skills without backward- compatible action items.Credibly impact alternative expertise vis - a - vis economically sound results.Dynamically synergize empowered benefits through functional partnerships.Authoritatively empower prospective infomediaries for interactive content.Synergistically embrace 2.0 paradigms through professional intellectual capital.Interactively strategize parallel growth strategies without out - of - the - box web services.Assertively reinvent installed base.",
+      "AdditionalInformation": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. Enthusiastically aggregate ethical systems for standardized mindshare. Energistically target resource maximizing leadership skills without backward-compatible action items. Credibly impact alternative expertise vis-a-vis economically sound results. Dynamically synergize empowered benefits through functional partnerships. Authoritatively empower prospective infomediaries for interactive content. Synergistically embrace 2.0 paradigms through professional intellectual capital. Interactively strategize parallel growth strategies without out-of-the-box web services. Assertively reinvent installed base.",
+      "customerreviews": [
+        {
+          "img": "../assets/img/testimonial/testi_3_1.jpg",
+          "name": "Adam Jhon ",
+          "date": "22 April, 2024",
+          "rating": "5",
+          "text": "This product is very much qualityful and I love this working system and speed."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_2.jpg",
+          "name": "Jusctin Dacon ",
+          "date": "23 April, 2024",
+          "rating": "5",
+          "text": "They delivered the product in a few time. Product quality is also very good."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_3.jpg",
+          "name": "Jacklin July",
+          "date": "25 April, 2024",
+          "rating": "4",
+          "text": "Their product and service is very satisfying. I highly recommend their services."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_4.jpg",
+          "name": "Adison Smith",
+          "date": "28 April, 2024",
+          "rating": "5",
+          "text": "I am just in love with this product. Their service is also very good you can also try."
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/project/product_1_5.jpg",
+      "title": "Apple Smartwatch",
+      "price": "$213.85",
+      "rating": "★ ★ ★ ",
+      "tag": "new",
+      "text": "Syndicate customized growth strategies prospective human capital leverage other`s optimal e- markets without transparent catalysts for change.Credibly coordinate highly efficient methods of empowerment cross unit solutions.",
+      "sku": "wheel-fits-chevy-camaro",
+      "category": "Tires & Wheels",
+      "tags": "automotive parts wheels",
+      "description": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. <br> <br> Enthusiastically aggregate ethical systems for standardized mindshare.Energistically target resource maximizing leadership skills without backward- compatible action items.Credibly impact alternative expertise vis - a - vis economically sound results.Dynamically synergize empowered benefits through functional partnerships.Authoritatively empower prospective infomediaries for interactive content.Synergistically embrace 2.0 paradigms through professional intellectual capital.Interactively strategize parallel growth strategies without out - of - the - box web services.Assertively reinvent installed base.",
+      "AdditionalInformation": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. Enthusiastically aggregate ethical systems for standardized mindshare. Energistically target resource maximizing leadership skills without backward-compatible action items. Credibly impact alternative expertise vis-a-vis economically sound results. Dynamically synergize empowered benefits through functional partnerships. Authoritatively empower prospective infomediaries for interactive content. Synergistically embrace 2.0 paradigms through professional intellectual capital. Interactively strategize parallel growth strategies without out-of-the-box web services. Assertively reinvent installed base.",
+      "customerreviews": [
+        {
+          "img": "../assets/img/testimonial/testi_3_1.jpg",
+          "name": "Adam Jhon ",
+          "date": "22 April, 2024",
+          "rating": "5",
+          "text": "This product is very much qualityful and I love this working system and speed."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_2.jpg",
+          "name": "Jusctin Dacon ",
+          "date": "23 April, 2024",
+          "rating": "5",
+          "text": "They delivered the product in a few time. Product quality is also very good."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_3.jpg",
+          "name": "Jacklin July",
+          "date": "25 April, 2024",
+          "rating": "4",
+          "text": "Their product and service is very satisfying. I highly recommend their services."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_4.jpg",
+          "name": "Adison Smith",
+          "date": "28 April, 2024",
+          "rating": "5",
+          "text": "I am just in love with this product. Their service is also very good you can also try."
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/project/product_1_6.jpg",
+      "title": "Computer Gamer Mouse",
+      "price": "$23.85",
+      "rating": "★ ★ ",
+      "tag": "new",
+      "text": "Syndicate customized growth strategies prospective human capital leverage other`s optimal e- markets without transparent catalysts for change.Credibly coordinate highly efficient methods of empowerment cross unit solutions.",
+      "sku": "wheel-fits-chevy-camaro",
+      "category": "Tires & Wheels",
+      "tags": "automotive parts wheels",
+      "description": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. <br> <br> Enthusiastically aggregate ethical systems for standardized mindshare.Energistically target resource maximizing leadership skills without backward- compatible action items.Credibly impact alternative expertise vis - a - vis economically sound results.Dynamically synergize empowered benefits through functional partnerships.Authoritatively empower prospective infomediaries for interactive content.Synergistically embrace 2.0 paradigms through professional intellectual capital.Interactively strategize parallel growth strategies without out - of - the - box web services.Assertively reinvent installed base.",
+      "AdditionalInformation": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. Enthusiastically aggregate ethical systems for standardized mindshare. Energistically target resource maximizing leadership skills without backward-compatible action items. Credibly impact alternative expertise vis-a-vis economically sound results. Dynamically synergize empowered benefits through functional partnerships. Authoritatively empower prospective infomediaries for interactive content. Synergistically embrace 2.0 paradigms through professional intellectual capital. Interactively strategize parallel growth strategies without out-of-the-box web services. Assertively reinvent installed base.",
+      "customerreviews": [
+        {
+          "img": "../assets/img/testimonial/testi_3_1.jpg",
+          "name": "Adam Jhon ",
+          "date": "22 April, 2024",
+          "rating": "5",
+          "text": "This product is very much qualityful and I love this working system and speed."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_2.jpg",
+          "name": "Jusctin Dacon ",
+          "date": "23 April, 2024",
+          "rating": "5",
+          "text": "They delivered the product in a few time. Product quality is also very good."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_3.jpg",
+          "name": "Jacklin July",
+          "date": "25 April, 2024",
+          "rating": "4",
+          "text": "Their product and service is very satisfying. I highly recommend their services."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_4.jpg",
+          "name": "Adison Smith",
+          "date": "28 April, 2024",
+          "rating": "5",
+          "text": "I am just in love with this product. Their service is also very good you can also try."
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/project/product_1_7.jpg",
+      "title": "Bluetooth Loudspeaker",
+      "price": "$23.85",
+      "rating": "★ ★ ★ ★ ★",
+      "tag": "Sale",
+      "text": "Syndicate customized growth strategies prospective human capital leverage other`s optimal e- markets without transparent catalysts for change.Credibly coordinate highly efficient methods of empowerment cross unit solutions.",
+      "sku": "wheel-fits-chevy-camaro",
+      "category": "Tires & Wheels",
+      "tags": "automotive parts wheels",
+      "description": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. <br> <br> Enthusiastically aggregate ethical systems for standardized mindshare.Energistically target resource maximizing leadership skills without backward- compatible action items.Credibly impact alternative expertise vis - a - vis economically sound results.Dynamically synergize empowered benefits through functional partnerships.Authoritatively empower prospective infomediaries for interactive content.Synergistically embrace 2.0 paradigms through professional intellectual capital.Interactively strategize parallel growth strategies without out - of - the - box web services.Assertively reinvent installed base.",
+      "AdditionalInformation": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. Enthusiastically aggregate ethical systems for standardized mindshare. Energistically target resource maximizing leadership skills without backward-compatible action items. Credibly impact alternative expertise vis-a-vis economically sound results. Dynamically synergize empowered benefits through functional partnerships. Authoritatively empower prospective infomediaries for interactive content. Synergistically embrace 2.0 paradigms through professional intellectual capital. Interactively strategize parallel growth strategies without out-of-the-box web services. Assertively reinvent installed base.",
+      "customerreviews": [
+        {
+          "img": "../assets/img/testimonial/testi_3_1.jpg",
+          "name": "Adam Jhon ",
+          "date": "22 April, 2024",
+          "rating": "5",
+          "text": "This product is very much qualityful and I love this working system and speed."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_2.jpg",
+          "name": "Jusctin Dacon ",
+          "date": "23 April, 2024",
+          "rating": "5",
+          "text": "They delivered the product in a few time. Product quality is also very good."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_3.jpg",
+          "name": "Jacklin July",
+          "date": "25 April, 2024",
+          "rating": "4",
+          "text": "Their product and service is very satisfying. I highly recommend their services."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_4.jpg",
+          "name": "Adison Smith",
+          "date": "28 April, 2024",
+          "rating": "5",
+          "text": "I am just in love with this product. Their service is also very good you can also try."
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/project/product_1_8.jpg",
+      "title": "G-Technology G-Drive",
+      "price": "$23.85",
+      "rating": "★ ★ ★ ★",
+      "tag": "Sale",
+      "text": "Syndicate customized growth strategies prospective human capital leverage other`s optimal e- markets without transparent catalysts for change.Credibly coordinate highly efficient methods of empowerment cross unit solutions.",
+      "sku": "wheel-fits-chevy-camaro",
+      "category": "Tires & Wheels",
+      "tags": "automotive parts wheels",
+      "description": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. <br> <br> Enthusiastically aggregate ethical systems for standardized mindshare.Energistically target resource maximizing leadership skills without backward- compatible action items.Credibly impact alternative expertise vis - a - vis economically sound results.Dynamically synergize empowered benefits through functional partnerships.Authoritatively empower prospective infomediaries for interactive content.Synergistically embrace 2.0 paradigms through professional intellectual capital.Interactively strategize parallel growth strategies without out - of - the - box web services.Assertively reinvent installed base.",
+      "AdditionalInformation": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. Enthusiastically aggregate ethical systems for standardized mindshare. Energistically target resource maximizing leadership skills without backward-compatible action items. Credibly impact alternative expertise vis-a-vis economically sound results. Dynamically synergize empowered benefits through functional partnerships. Authoritatively empower prospective infomediaries for interactive content. Synergistically embrace 2.0 paradigms through professional intellectual capital. Interactively strategize parallel growth strategies without out-of-the-box web services. Assertively reinvent installed base.",
+      "customerreviews": [
+        {
+          "img": "../assets/img/testimonial/testi_3_1.jpg",
+          "name": "Adam Jhon ",
+          "date": "22 April, 2024",
+          "rating": "5",
+          "text": "This product is very much qualityful and I love this working system and speed."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_2.jpg",
+          "name": "Jusctin Dacon ",
+          "date": "23 April, 2024",
+          "rating": "5",
+          "text": "They delivered the product in a few time. Product quality is also very good."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_3.jpg",
+          "name": "Jacklin July",
+          "date": "25 April, 2024",
+          "rating": "4",
+          "text": "Their product and service is very satisfying. I highly recommend their services."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_4.jpg",
+          "name": "Adison Smith",
+          "date": "28 April, 2024",
+          "rating": "5",
+          "text": "I am just in love with this product. Their service is also very good you can also try."
+        }
+      ]
+    },
+    {
+      "img": "../assets/img/project/product_1_9.jpg",
+      "title": "Ultraviolet Battery",
+      "price": "$223.85",
+      "rating": "★ ★ ★ ",
+      "tag": "Sale",
+      "text": "Syndicate customized growth strategies prospective human capital leverage other`s optimal e- markets without transparent catalysts for change.Credibly coordinate highly efficient methods of empowerment cross unit solutions.",
+      "sku": "wheel-fits-chevy-camaro",
+      "category": "Tires & Wheels",
+      "tags": "automotive parts wheels",
+      "description": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. <br> <br> Enthusiastically aggregate ethical systems for standardized mindshare.Energistically target resource maximizing leadership skills without backward- compatible action items.Credibly impact alternative expertise vis - a - vis economically sound results.Dynamically synergize empowered benefits through functional partnerships.Authoritatively empower prospective infomediaries for interactive content.Synergistically embrace 2.0 paradigms through professional intellectual capital.Interactively strategize parallel growth strategies without out - of - the - box web services.Assertively reinvent installed base.",
+      "AdditionalInformation": "Conveniently build adaptive users with front-end human capital. Appropriately unleash team building technology for goal-oriented paradigms. Dynamically generate interoperable e-business vis-a-visgoal-oriented value. Completely pursue fully tested content whereas multifunctional core competencies. Progressively scale team driven process improvements before premier functionalities. Holisticly cultivate intermandated methodologies rather than virtual technology. Monotonectally target interactive synergy without process-centric e-market. Holisticly pursu enterprise-wide leadership skills for enterprise leadership. Collaboratively underwhelm standardized expertise after effective bandwidth. Conveniently productivate holistic collaboration and idea-sharing rather than granular strategic theme areas. Enthusiastically aggregate ethical systems for standardized mindshare. Energistically target resource maximizing leadership skills without backward-compatible action items. Credibly impact alternative expertise vis-a-vis economically sound results. Dynamically synergize empowered benefits through functional partnerships. Authoritatively empower prospective infomediaries for interactive content. Synergistically embrace 2.0 paradigms through professional intellectual capital. Interactively strategize parallel growth strategies without out-of-the-box web services. Assertively reinvent installed base.",
+      "customerreviews": [
+        {
+          "img": "../assets/img/testimonial/testi_3_1.jpg",
+          "name": "Adam Jhon ",
+          "date": "22 April, 2024",
+          "rating": "5",
+          "text": "This product is very much qualityful and I love this working system and speed."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_2.jpg",
+          "name": "Jusctin Dacon ",
+          "date": "23 April, 2024",
+          "rating": "5",
+          "text": "They delivered the product in a few time. Product quality is also very good."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_3.jpg",
+          "name": "Jacklin July",
+          "date": "25 April, 2024",
+          "rating": "4",
+          "text": "Their product and service is very satisfying. I highly recommend their services."
+        },
+        {
+          "img": "../assets/img/testimonial/testi_3_4.jpg",
+          "name": "Adison Smith",
+          "date": "28 April, 2024",
+          "rating": "5",
+          "text": "I am just in love with this product. Their service is also very good you can also try."
+        }
+      ]
+    }
+  ]
+}
